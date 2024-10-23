@@ -1,5 +1,2 @@
-# 0x02. Redis basic
-
-
-## Author
-Leon Munene
+0x02. Redis basic
+Dennis Miring'u

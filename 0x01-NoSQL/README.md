@@ -1,6 +1,2 @@
-# 0x01. NoSQL advanced
-
-
-## Author
-
-Leon Munene
+0x01. NoSQL advanced
+Dennis Miring'u
